@@ -10,16 +10,13 @@
 }
 
 
-a {
-  text-decoration: none;
-}
-
 .logo {
   width: 228px;
   height: 32px;
 }
 
 .header {
+  height: 100vh;
   min-height: 600px;
   max-height: 756px;
   width: 100%;
@@ -74,7 +71,9 @@ a {
   right: 0px;
   top: 64px;
 }
-
+.header__link{
+  text-decoration: none;
+}
 .description {
   display: flex;
   justify-content: center;
@@ -253,6 +252,7 @@ a {
   position: absolute;
   right: 48px;
   top: 50%;
+  text-decoration: none;
   z-index: 1;
 }
 
