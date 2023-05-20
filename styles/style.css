@@ -32,7 +32,7 @@
   font-weight: 600;
   z-index: 3;
   line-height: 96px;
-  margin-left: 64px;
+  margin: 0 0 0 64px;
 }
 
 .header__subtitle {
@@ -187,7 +187,6 @@
 .table__cell {
   width: 250px;
   padding-top: 60px;
-  max-height: 200px;
   box-sizing: border-box;
 }
 
@@ -349,21 +348,21 @@
 
 
 
-.nav__column-heading {
+.footer__column-heading {
   line-height: 30px;
   font-size: 18px;
   font-weight: bold;
   margin: 0;
 }
 
-.nav__column-links {
+.footer__column-links {
   margin-top: 20px;
   margin-bottom: 16px;
   list-style: none;
   padding: 0;
 }
 
-.nav__column_link {
+.footer__column_link {
   line-height: 30px;
   font-size: 18px;
   font-weight: normal;
@@ -372,7 +371,7 @@
   color: white;
 }
 
-.nav__link-icon {
+.footer__social-icon {
   height: 16px;
   width: 16px;
   margin-right: 10px;
