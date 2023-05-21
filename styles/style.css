@@ -99,12 +99,9 @@
   line-height: 1.2;
   font-weight: normal;
   margin: 0;
+  width: 175px;
 }
 
-.two-columns__brief {
-  width: 175px;
-  align-items: start;
-}
 
 .two-columns__main-text {
   width: 80%;
