@@ -5,7 +5,7 @@
     position: relative;
     background-color: #f2f2f2;
     flex-direction: column;
-    height: 890px;
+    min-height: 890px;
     width: 100%;
     margin: 0 0 100px 0;
   }
